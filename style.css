@@ -28,8 +28,8 @@ body {
 #section {
     background: #ebebeb;
     width: 495px;
-    height: 250px;
-    padding-top: 35px;
+    height: 300px;
+    padding-top: 0px;
     margin-left: 0;
     float: left;
     margin-bottom: 20px;
@@ -39,8 +39,8 @@ body {
 #aside {
     background: #ebebeb;
     width: 445px;
-    height: 245px;
-    padding-top: 40px;
+    height: 300px;
+    padding-top: 0px;
     margin-left: 0;
     float: right;
     margin-bottom: 20px;
@@ -50,12 +50,12 @@ body {
 #article {
     color: #ebebeb;
     background: #777;
-    height: 175px;
+    height: 200px;
     text-align: center;
     margin-right: 10px;
     margin-left: 10px;
-    margin-top: 25px;
-    padding-top: 20px;
+    margin-top: 0px;
+    padding-top: 10px;
 }
 
 h1 {
@@ -64,7 +64,7 @@ h1 {
     height: 40px;
     margin-left: 20px;
     margin-right: 25px;
-    margin-top: 15px;
+    margin-top: 5px;
     padding-top: 15px;
     margin-bottom: 5px;
 }
